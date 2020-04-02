@@ -19,6 +19,7 @@ data_types = [
     'string', 
     'enum', 
     'color',
+    'datetime',
 ]
 
 class Property_Base(object):
